@@ -123,14 +123,3 @@ a.woo-button-one {
   flex-wrap: wrap;
   gap: 20px;
 }
-/* Slick Slider */
-.monir-woo-card.slick-slide {
-  width: 230px !important;
-  text-align: center;
-  display: flex;
-}
-
-.monir-woo-card.slick-slide {
-  display: flex;
-  flex-direction: column;
-}
