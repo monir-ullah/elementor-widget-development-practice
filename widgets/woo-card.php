@@ -499,7 +499,7 @@ class Woo_Card extends \Elementor\Widget_Base {
 				});
 			</script>
 			<style>
-				/* Slick Slider */
+				/* Slick Slider CSS */
 					.monir-woo-card-wraper .monir-woo-card.slick-slide {
 						width: 230px !important;
 						text-align: center;
@@ -521,14 +521,12 @@ class Woo_Card extends \Elementor\Widget_Base {
 
 					.monir-woo-card-wraper ul.slick-dots li {
 						height: 5px;
-						/* background: red !important; */
 						width: 100%;
 						cursor: pointer;
 					}
 
 					.monir-woo-card-wraper ul.slick-dots li.slick-active {
 						height: 10px;
-						background:green !important;
 						position:relative;
 						top:-2.5px;
 					}
