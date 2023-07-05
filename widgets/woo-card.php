@@ -499,7 +499,7 @@ class Woo_Card extends \Elementor\Widget_Base {
 				});
 			</script>
 			<style>
-				/* Slick Slider CSS */
+				/* Slick Slider CSS Inside of PHP*/
 					.monir-woo-card-wraper .monir-woo-card.slick-slide {
 						width: 230px !important;
 						text-align: center;
