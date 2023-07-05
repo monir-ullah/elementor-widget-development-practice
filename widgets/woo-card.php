@@ -370,7 +370,7 @@ class Woo_Card extends \Elementor\Widget_Base {
 		$this->end_controls_section();
 		
 
-		// Style Tab End
+		// Style Tab End for Elementor Woo Card Widget
 
 	}
 
